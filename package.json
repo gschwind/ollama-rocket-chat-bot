@@ -1,0 +1,14 @@
+{
+  "name": "ollama-rocket-chat-bot",
+  "version": "0.9.0",
+  "description": "AI Chat bot that connect and use ollama server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5"
+  }
+}
